@@ -1,6 +1,7 @@
 <?php require __DIR__ . '/vendor/autoload.php';
 
 ini_set('display_errors', 1);
+ini_set('max_execution_time', -1);
 
 $step = isset($_POST["step"]) ? $_POST["step"] : false;
 

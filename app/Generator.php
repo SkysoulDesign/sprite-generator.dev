@@ -2,8 +2,6 @@
 
 namespace Skysoul;
 
-//use Symfony\Component\Finder\SplFileInfo;
-
 /**
  * Class GetUniqueCharacters
  *
@@ -75,13 +73,15 @@ class Generator
         $uniques = $this->split($this->inject);
         $ignored = $this->split($this->ignore);
 
+        $buggyChars = $this->split("\"");
+
         foreach ($this->split($this->words) as $index => $char) {
 
             /**
              * Remove White Spaces and convert to lower case
              */
             $char = trim(strtolower($char));
-            if (!in_array($char, $uniques) && !in_array($char, $ignored))
+            if (!in_array($char, $uniques) && !in_array($char, $ignored) && !empty($char) && !in_array($char, $buggyChars))
                 $uniques[] = $char;
 
         }
@@ -96,13 +96,6 @@ class Generator
         }
 
         array_unshift($uniques, 'id,word');
-
-
-        $headers = [
-            'Content-type'        => 'text/plain; charset=UTF-8',
-            'Content-Disposition' => sprintf('attachment; filename="%s"', 'keywords.txt'),
-            'Content-Length'      => sizeof(implode('', $uniques))
-        ];
 
         header("Content-type: text/plain; charset=UTF-8");
         header('Content-Disposition: ' . sprintf('attachment; filename="%s"', 'photoshop-data-set.txt'));
@@ -135,21 +128,18 @@ class Generator
      */
     public function handle()
     {
-        
 
         ini_set('default_charset', 'UTF-8');
 
         /** @var SplFileInfo[] $files */
         $files = \File::allFiles(base_path($this->source));
 
-        
 
         /**
          * Sort array numeric order
          */
         ksort($sprites);
 
-        
 
 //        dd(count($uniques));
 

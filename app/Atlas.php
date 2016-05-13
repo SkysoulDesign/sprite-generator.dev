@@ -19,8 +19,8 @@ class Atlas
      * white = 1024x600
      * yellow = 1024x422
      */
-    public $docSizeX = 1024;
-    public $docSizeY = 422;
+    public $docSizeX;
+    public $docSizeY;
 
     public $file;
 
@@ -35,8 +35,8 @@ class Atlas
     public function __construct(array $fields, array $file)
     {
 
-        $this->docSizeX = isset($fields['x']) ? $fields['x'] : '1024';
-        $this->docSizeY = isset($fields['y']) ? $fields['y'] : '1024';
+        $this->docSizeX = empty(isset($fields['x'])) ? $fields['x'] : 1024;
+        $this->docSizeY = empty(isset($fields['y'])) ? $fields['y'] : 1024;
         $this->file = $file;
         $this->zip = new ZipArchive;
 
@@ -49,11 +49,9 @@ class Atlas
     {
 
         $directory = __DIR__ . "/extract";
-        $folderName = "Folder";
+        $folderName = "sprites";
         $spriteDirectory = $directory . DIRECTORY_SEPARATOR . $folderName;
 
-        array_map('unlink', glob("extract/*.*"));
-die();
         /**
          * Extract Folder
          */
@@ -126,7 +124,7 @@ die();
             $sprite->x = $x;
             $sprite->y = $y;
 
-            $sprite->char = "\nchar id=$sprite->decimal x=$sprite->x y=$sprite->y width=$sprite->width height=$sprite->height xoffset=0 yoffset=0 xadvance=$sprite->width page=0 chnl=0";
+            $sprite->char = "\nchar id=$sprite->decimal x=$sprite->x y=$sprite->y width=$sprite->width height=$sprite->height xoffset=0 yoffset=0 xadvance=$sprite->width page=0 chnl=0 letter=$sprite->character";
 
             $current = $sprite->id;
 
@@ -142,7 +140,17 @@ die();
 
         $canvas->writeImage(__DIR__ . DIRECTORY_SEPARATOR . "exported" . DIRECTORY_SEPARATOR . "sprite.png");
 
-        die();
+        $filePath = $this->deliveryZip($this->generateCoordinates($sprites));
+
+        header('Content-Type: application/zip');
+        header('Content-Disposition: attachment; filename="sprites.zip"');
+        header('Content-Length: ' . filesize($filePath));
+        readfile($filePath);
+
+        /**
+         * Clean Up Directory
+         */
+        $this->delete_files($directory);
 
     }
 
@@ -165,6 +173,68 @@ die();
 
         return $final;
 
+    }
+
+    /**
+     * Get The Decimal of a Number
+     *
+     * @param $char
+     * @return number
+     */
+    public function getDecimal($char)
+    {
+        return hexdec(mb_encode_numericentity($char, array(0x0, 0xffff, 0, 0xffff), 'UTF-8', true));
+    }
+
+    public function deliveryZip($coordinates)
+    {
+        $zip = new ZipArchive();
+        $filename = __DIR__ . DIRECTORY_SEPARATOR . "exported/sprites.zip";
+
+        if ($zip->open($filename, ZipArchive::CREATE) !== true) {
+            exit("cannot open <$filename>\n");
+        }
+
+        $zip->addFromString("coordinates.txt", $coordinates);
+        $zip->addFile(__DIR__ . DIRECTORY_SEPARATOR . "exported/sprite.png", "sprite.png");
+        $zip->close();
+
+        return $filename;
+
+    }
+
+    public function generateCoordinates(array $sprites)
+    {
+        $count = count($sprites);
+        $header = "info face='sprite.png' size=16 bold=0 italic=0 charset=\"\" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0 common lineHeight=32 base=25 scaleW=$this->docSizeX scaleH=$this->docSizeY pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0 \npage id=0 file='sprite.png' \nchars count=$count";
+        $coordinates = [$header];
+
+        foreach ($sprites as $sprite) {
+            $coordinates[] = $sprite->char;
+        }
+
+        return implode('', $coordinates);
+    }
+
+    /**
+     * php delete function that deals with directories recursively
+     *
+     * @param $target
+     */
+    function delete_files($target)
+    {
+        if (is_dir($target)) {
+            $files = glob($target . DIRECTORY_SEPARATOR . '*', GLOB_MARK);
+
+            foreach ($files as $file) {
+                $this->delete_files($file);
+            }
+
+            rmdir($target);
+
+        } elseif (is_file($target)) {
+            unlink($target);
+        }
     }
 
     /**
@@ -191,17 +261,6 @@ die();
     public function handle()
     {
 //        $this->zip->open()
-    }
-
-    /**
-     * Get The Decimal of a Number
-     *
-     * @param $char
-     * @return number
-     */
-    public function getDecimal($char)
-    {
-        return hexdec(mb_encode_numericentity($char, array(0x0, 0xffff, 0, 0xffff), 'UTF-8', true));
     }
 
 }
