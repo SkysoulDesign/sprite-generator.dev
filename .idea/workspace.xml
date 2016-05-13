@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dfa90fd-7a95-4885-a56b-8e9568321f58" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Folder/0.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Folder/1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Folder/2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Folder/3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/exported/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/0.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/10.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/11.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/12.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/13.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/14.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/15.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/16.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/17.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/4.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/5.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/6.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/7.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/8.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/extract/Folder/9.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/character-template.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/fl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/hi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/mi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/nv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/oh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/or.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/ut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/vt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/wa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/wi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/wv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/images/flags/wy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Atlas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.12.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/css/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/css/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/dist/js/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/disabled-mode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/disabled-results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/hide-search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/localization-rtl-diacritics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/matcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/multiple-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/placeholders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/programmatic-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/themes-templating-responsive-design.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/examples/tokenizer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/ga.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/js-source-states.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/nav/announcements-4.0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/nav/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/nav/options-old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/nav/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/notice-previous.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/adapters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/backwards-compatibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/core-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options-old/setting-default-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility/initial-selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility/introduction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility/matcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility/query-function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/compatibility/text-input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/core.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/core/amd-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/core/data-attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/core/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/data/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/data/array.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/data/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/dropdown/filtering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/dropdown/placement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/dropdown/selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/dropdown/tagging.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/events/internal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/events/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/introduction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/not-written.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/selections/clearing-selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/selections/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/selections/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/options/selections/templating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_includes/social-buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_anchorjs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_dl-panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_featurette.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_hamburger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_prettify.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_result-repository.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_sidenav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_social.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_syntax-highlighting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_component-animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_glyphicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_input-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_modals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_navs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_responsive-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_thumbnails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/_wells.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_progress-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_text-overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/_sass/vendor/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/announcements-4.0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/css/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/css/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/css/s2-docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/options-old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/js/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/js/placeholders.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/docs/vendor/js/prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/select2.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/banner.end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/banner.start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/jquery.mousewheel.shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/jquery.select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/jquery.shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/containerCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/dropdownCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/initSelection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/inputData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/matcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/compat/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/maximumInputLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/maximumSelectionLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/minimumInputLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/tags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/data/tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/diacritics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/attachBody.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/attachContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/closeOnSelect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/hidePlaceholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/infiniteScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/minimumResultsForSearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/selectOnClose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/dropdown/stopPropagation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/allowClear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/clickMask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/eventRelay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/selection/stopPropagation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/translation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/select2/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/wrapper.end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/js/wrapper.start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/classic/_defaults.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/classic/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/classic/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/classic/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/default/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/default/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/src/scss/theme/default/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/a11y/search-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/a11y/selection-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/array-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/base-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/inputData-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/maximumInputLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/maximumSelectionLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/minimumInputLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/select-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/tags-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/data/tokenizer-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/dropdown/dropdownCss-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/dropdown/positioning-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/dropdown/selectOnClose-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/dropdown/stopPropagation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/integration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/integration/select2-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/options/ajax-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/options/data-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/options/deprecated-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/options/translation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/options/width-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/allowClear-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/containerCss-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/multiple-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/placeholder-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/search-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/single-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/selection/stopPropagation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/unit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/utils/decorator-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/utils/escapeMarkup-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/vendor/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/vendor/qunit-1.14.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/tests/vendor/qunit-1.14.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select2/vendor/jquery-2.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/.versions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/ad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/ad.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/api.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/breadcrumb.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/colorize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/comment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/container.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dimmer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dimmer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dimmer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dropdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/embed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/feed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/feed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/flag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/flag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/form.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/header.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/item.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/label.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/loader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/loader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/message.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/modal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/modal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/nag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/nag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/nag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/popup.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/progress.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/progress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rail.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rating.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/rating.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/reset.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/search.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/segment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/segment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/shape.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/shape.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sidebar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sidebar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/state.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/statistic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/statistic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/step.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/tab.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/tab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/transition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/transition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/transition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/visibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/components/visit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic-ui/themes/default/assets/fonts/icons.svg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GenerateUnique.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Screen Shot 2016-05-12 at 10.56.31 AM copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Screen Shot 2016-05-12 at 10.56.31 AM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <ignored path="sprite-generator.dev.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sprite-generator.dev" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Generator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Generator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2744">
+              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Atlas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Atlas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sprite.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/exported/sprite.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GenerateUnique.php" />
+        <option value="$PROJECT_DIR$/Generator.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/Generator.php" />
+        <option value="$PROJECT_DIR$/app/extract/photoshop-data-set.txt" />
+        <option value="$PROJECT_DIR$/app/Atlas.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="port" value="192.168.1.122:1666" />
+    <option name="user" value="rafael" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-20" />
+    <option name="y" value="23" />
+    <option name="width" value="1916" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprite-generator.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprite-generator.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprite-generator.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprite-generator.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprite-generator.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dreamsark.dev" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/extract" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dfa90fd-7a95-4885-a56b-8e9568321f58" name="Default" comment="" />
+      <created>1463019038323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463019038323</updated>
+      <workItem from="1463019039757" duration="1827000" />
+      <workItem from="1463023253381" duration="19221000" />
+      <workItem from="1463120682779" duration="786000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hello World">
+      <created>1463023320533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463023320533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <created>1463023463971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1463023463971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21834000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-20" y="23" width="1916" height="1057" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25773746" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.51280683" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2548">
+          <caret line="91" column="37" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Atlas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4116">
+          <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+          <folding>
+            <element signature="e#27#39#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.sh" />
+    <entry file="file://$PROJECT_DIR$/app.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/character-template.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.psd.png" />
+    <entry file="file://$PROJECT_DIR$/1.psd.png" />
+    <entry file="file://$PROJECT_DIR$/0.psd.png" />
+    <entry file="file://$PROJECT_DIR$/3.psd.png" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/imagick.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="1639" column="0" selection-start-line="1639" selection-start-column="0" selection-end-line="1639" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/exported/0.png" />
+    <entry file="file://$PROJECT_DIR$/app/exported/3.png" />
+    <entry file="file://$PROJECT_DIR$/app/exported/2.png" />
+    <entry file="file://$PROJECT_DIR$/app/exported/1.png" />
+    <entry file="file://$PROJECT_DIR$/app/extract/photoshop-data-set.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/exported/sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2744">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Atlas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

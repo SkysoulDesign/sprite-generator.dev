@@ -1,0 +1,10 @@
+{
+  "name": "skysoul/sprite-generator",
+  "description": "Generates Sprites",
+  "autoload": {
+    "psr-4": {
+      "Skysoul\\": "app/"
+    }
+  },
+  "require": {}
+}
